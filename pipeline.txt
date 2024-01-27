@@ -1,0 +1,7 @@
+"sphere_radius" = 2
+"prism_length" = 5
+"prism_width" = 2
+"prism_height" = 10
+"pyramid_length" = 3
+"pyramid_width" = 2
+"pyramid_height" = 8
